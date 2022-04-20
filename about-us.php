@@ -2,13 +2,13 @@
 <html lang="en">
 
 <head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>Lighthouse Bible Baptist Church</title>
-	<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">    
+	<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
@@ -16,7 +16,7 @@
     <!-- Custom CSS -->
     <link href="css/font-awesome.css" rel="stylesheet">
     <link href="css/jquery-ui.css" rel="stylesheet">
-    <link href="css/animate.css" rel="stylesheet">    
+    <link href="css/animate.css" rel="stylesheet">
     <link href="css/lbbc-style.css" rel="stylesheet">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -28,7 +28,7 @@
 
 </head>
 
-<body class="inner abt">    
+<body class="inner abt">
     <!-- Navigation -->
     <div class="header-container-wrapper">
 
@@ -42,7 +42,7 @@
         	<img src="img/church.jpg">
             <div class="container caption text-center">
                 <h1>Glorifying God through the fulfillment<br><span>of Christ's Great Commission</span></h1>
-                <p>Matthew 28:18-20</p>    
+                <p>Matthew 28:18-20</p>
                 <!-- <h1>Shining as lights, holding forth the Word<br><span>through lives and ministries</span></h1>
                 <p>Philippians 2:15-16</p>
                 <p><a href="#">Join Webcast</a></p> -->
@@ -65,8 +65,8 @@
                                 </figcaption>
                             </figure>
                         </div>
-                        <div class="col-md-4">                      
-                            <figure class="mvo text-center wow fadeInUp" data-wow-delay='.15s'>                                         
+                        <div class="col-md-4">
+                            <figure class="mvo text-center wow fadeInUp" data-wow-delay='.15s'>
                                 <i class="fa fa-lightbulb-o" aria-hidden="true"></i>
                                 <figcaption>
                                     <h5>Vision</h5>
@@ -75,8 +75,8 @@
                                 </figcaption>
                             </figure>
                         </div>
-                        <div class="col-md-4">                      
-                            <figure class="mvo text-center wow fadeInUp" data-wow-delay='.3s'>                      
+                        <div class="col-md-4">
+                            <figure class="mvo text-center wow fadeInUp" data-wow-delay='.3s'>
                                 <i class="fa fa-pencil-square-o" aria-hidden="true"></i>
                                 <figcaption>
                                     <h5>Objective</h5>
@@ -91,9 +91,9 @@
                                     <p class="reference">Ephesians 3:21 ; Matthew 28:18-20 ; Acts 1:8 ; Acts 2:41-47</p>
                                 </figcaption>
                             </figure>
-                        </div>                      
+                        </div>
                     </div>
-                </div>              
+                </div>
             </div>
         </section>
 
@@ -104,14 +104,14 @@
     					<div class="video-wrapper">
                             <video class="video" preload="auto" controls="" width="100%" height="auto" poster="img/church.jpg">
                             <!-- WCAG general accessibility recommendation is that media such as background video play through only once. Loop turned on for the purposes of illustration; if removed, the end of the video will fade in the same way created by pressing the "Pause" button  -->
-                            	<source src="videos/Corp-AVP.mp4" type="video/mp4">
+                            	<source src="https://lh3.googleusercontent.com/iKkmKtUsZy6TKfSsElECWEaFBsMMdSgc1CAS8CvCLyZbfeHLg40CTb0qS-DDj9pMK1FvurlFp9DCyFYgHCgjKMwf72P7RTea9swMjFLooe10YXZWm9o1tzHSDjwhCHZ51elxBlkW7eCI3EEXGyCewuLhSbGuUx6QgBtKdli8RMg2JFxFI9jBM7lPh7F-zgSl6OePO4AtOrwqWh425U6W14ZfZe0t0354LUL2C_UTV1m24ARB1KoJvaJ7GSA0YUGRdDxEpFZpUx5keEV7eCcaeiGYobglH-e6wMSSUNelDRRDEX3hkAmKDGfes8h5FbyBl4yUesFsaIgwZaxexJVmURCeAcB2xSYyoMlbrSxiXr_xwzUumiEsvx3ZudS8it5M0frf6xRJF_1BGN8OQ1iVU-7IeE9M1_Qe0uj4x4fa0tQqmVx_OaX61zqh2Gkb3FxOmH_Az7k8mPgqcKBQG2rk-LOUale5N487eqQSkFdokNahpQQppa3aMr40sjAYeuYjD9YKCzPE81w1B1Nwh_HcwgZHJHpxdBUVZbKocHMaI45pPJvujtA01oEbRkPn39dKcYUNDMM4K_WuLnuo_GE04-502WCEVMxL-Hdtj9HNquLvHzD1trz2eDa8udnlONwvXcii_Ej-r3NHdY4PwneqAsAm1nBe2kU7Wi7JOj3LOXal_7KmpR540AlcXgKLFkHih7BJMO2rYHICzYSUGZ5VTs84ZX0Z961Lt8GZbH1lSTE1DjlA4xOjz8BmU2Aut8CsbMxRk08MhxEnSBpF3IJ-osNNKCVwoZuwD_0RQXQ4cGOCB3UdRPoayNWpc-tFJSFb9PzlzIPbpNsUMq__T6ra4RvVRDxHe7c=m15?authuser=0&cpn=5S0mTBolnLnukvDZ&c=WEB_EMBEDDED_PLAYER&cver=1.20220417.00.00" type="video/mp4">
                             </video>
                             <div class="playpause shown"></div>
                         </div>
     				</div>
     			</div>
     		</div>
-    	</section>    	    	
+    	</section>
 
     	<section class="articlesOfFaith wow fadeInUp">
             <div class="container">
@@ -131,7 +131,7 @@
                     <div class="col-md-12">
                         <div class="articleList">
 							<div class="col-md-6">
-								<ul id="accordion">    							
+								<ul id="accordion">
 									<h6>Of the Scriptures</h6>
                                     <div class="accordion-content">
                                         <p>We believe that the Holy Bible was written by men supernaturally inspired; that it has truth without any admixture of error for its matter; and therefore is, and shall remain to the end of the age, the only complete and final revelation of the will of God to man; the true center of Christian union and the supreme standard by which all human conduct, creeds, and opinions should be tried.</p>
@@ -205,7 +205,7 @@
 								</ul>
 							</div>
 							<div class="col-md-6">
-								<ul id="accordion2">    							
+								<ul id="accordion2">
 									<h6>Of Justification</h6>
                                     <div class="accordion-content">
                                         <p>We believe that the great gospel blessing which Christ secures to such as believe in Him is Justification; that Justification includes the pardon of sin, and the gift of eternal life on principles of righteousness; that it is bestowed not in consideration of any works of righteousness which we have done; but solely through faith in the Redeemer's blood, His righteousness is imputed unto us.</p>
@@ -301,17 +301,17 @@
 
 								</ul>
 							</div>
-    						
+
     					</div>
     				</div>
     			</div>
     		</div>
     	</section>
-        
+
         <section class="pastors">
             <div class="container">
                 <h4>The Senior Pastor</h4>
-                <div class="row">                   
+                <div class="row">
                     <div class="col-md-12" data-wow-offset="200" data-wow-delay='.3s'>
                         <div class="col-md-4 text-center">
                             <img src="img/pra.png" alt="Bp. Reuben M. Abante">
@@ -327,7 +327,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="row">                
+                <div class="row">
                     <div class="col-md-12" data-wow-offset="200" data-wow-delay='.15s'>
                         <div class="col-md-4 text-center">
                             <img src="img/tatay.png" alt="Rev. Bienvenido O. Abante Sr.">
@@ -343,14 +343,14 @@
                         </div>
                     </div>
                 </div>
-            </div> 
+            </div>
         </section>
 
     	<section class="verse wow fadeIn" data-wow-offset="200" data-wow-delay='.15s'>
     		<div class="container">
 				<div class="row">
     				<div class="col-md-12">
-    					<div class="bibleVerse">    						
+    					<div class="bibleVerse">
 	    					<div class="bibleVerseContent">
 					    		<h3>"Unto Him be glory in the church by Christ Jesus throughout all ages, world without end. Amen."</h3>
 								<p>EPHESIANS 3:21</p>
@@ -377,7 +377,7 @@
     <!-- <script src="//code.jquery.com/jquery-1.10.2.js"></script> -->
     <script src="js/jquery-ui.js"></script>
     <script src="js/wow.js"></script>
-    <script src="js/lbbc-main.js"></script>    
+    <script src="js/lbbc-main.js"></script>
     <script>
     $(document).ready(function(){
        	$(".banner .item").each(function() {
@@ -392,20 +392,20 @@
                 wow.init();
 
         $('.video-wrapper').click(function () {
-    		// $("video.video").get(0).play();   
-        	
-        	if($('.playpause').hasClass('shown')){  
+    		// $("video.video").get(0).play();
+
+        	if($('.playpause').hasClass('shown')){
 				$('.playpause').toggleClass('hidden');
-        		$("video.video").get(0).play();   
+        		$("video.video").get(0).play();
 			}
 			else {
-				$("video.video").get(0).pause();   
+				$("video.video").get(0).pause();
 				$('.playpause').toggleClass('hidden');
-			}            
+			}
 		});
   //       $('.video-wrapper').click(function () {
-		// 	if($('.playpause').hasClass('shown.hidden')){ 		
-		// 		$("video.video").get(0).play();   
+		// 	if($('.playpause').hasClass('shown.hidden')){
+		// 		$("video.video").get(0).play();
 		// 		$('.playpause').toggleClass('hidden');
 		// 	}
 		// });
@@ -419,14 +419,14 @@
                 active: false
             });
         });
-    });    
+    });
     </script>
     <script type="text/javascript">
       var woopra_id = '1175217160';
     </script>
     <script src="https://static.woopra.com/js/woopra.js"></script>
     <!--GoogleAnalytics-->
-    <script src="https://www.google-analytics.com/urchin.js" type="text/javascript"></script> 
+    <script src="https://www.google-analytics.com/urchin.js" type="text/javascript"></script>
     <script type="text/javascript"> _uacct = "UA-465178-1"; urchinTracker(); </script>
     <!--END GoogleAnalytics-->
 	</body>
