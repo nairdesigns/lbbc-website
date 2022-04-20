@@ -1,0 +1,231 @@
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../fonts/PlayfairDisplay-BlackItalic.eot');
+    src: url('../fonts/PlayfairDisplay-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/PlayfairDisplay-BlackItalic.woff2') format('woff2'),
+        url('../fonts/PlayfairDisplay-BlackItalic.woff') format('woff'),
+        url('../fonts/PlayfairDisplay-BlackItalic.ttf') format('truetype'),
+        url('../fonts/PlayfairDisplay-BlackItalic.svg#PlayfairDisplay-BlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../fonts/PlayfairDisplay-BoldItalic.eot');
+    src: url('../fonts/PlayfairDisplay-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/PlayfairDisplay-BoldItalic.woff2') format('woff2'),
+        url('../fonts/PlayfairDisplay-BoldItalic.woff') format('woff'),
+        url('../fonts/PlayfairDisplay-BoldItalic.ttf') format('truetype'),
+        url('../fonts/PlayfairDisplay-BoldItalic.svg#PlayfairDisplay-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Copperplate Gothic';
+    src: url('../fonts/CopperplateGothic-Bold.eot');
+    src: url('../fonts/CopperplateGothic-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/CopperplateGothic-Bold.woff2') format('woff2'),
+        url('../fonts/CopperplateGothic-Bold.woff') format('woff'),
+        url('../fonts/CopperplateGothic-Bold.ttf') format('truetype'),
+        url('../fonts/CopperplateGothic-Bold.svg#CopperplateGothic-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Copperplate Gothic';
+    src: url('../fonts/CopperplateGothic-Light.eot');
+    src: url('../fonts/CopperplateGothic-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/CopperplateGothic-Light.woff2') format('woff2'),
+        url('../fonts/CopperplateGothic-Light.woff') format('woff'),
+        url('../fonts/CopperplateGothic-Light.ttf') format('truetype'),
+        url('../fonts/CopperplateGothic-Light.svg#CopperplateGothic-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+.pT1em {
+    padding-top: 1em;
+}
+
+
+img.custom-logo {
+    height: 150px;
+    padding: 15px 0;
+    width: auto;
+    transition: 0.2 all ease;
+    -webkit-transition: 0.2s all ease;
+    -moz-transition: 0.2s all ease;
+    -o-transition: 0.2s all ease;
+}
+.navbar-shrink img.custom-logo {
+    height: 80px;
+    padding: 0;
+    transition: 0.2 all ease;
+    -webkit-transition: 0.2s all ease;
+    -moz-transition: 0.2s all ease;
+    -o-transition: 0.2s all ease;
+}
+li.nav-item {
+    margin: 0 10px;
+}
+#mainNav .navbar-nav>li>a, 
+#mainNav .navbar-nav>li>a:focus{
+    color: rgba(255,255,255,1);
+    font-weight: 700;
+    text-shadow: 1px 1px #3a2415;
+    font-size: 13px;
+    padding: 8px 15px;
+}
+#mainNav.navbar-shrink .navbar-nav>li>a, 
+#mainNav.navbar-shrink .navbar-nav>li>a:focus {
+	color: #3a2415;
+    text-shadow: 1px 1px transparent;
+}
+#mainNav .navbar-nav>li>a:focus:hover, #mainNav .navbar-nav>li>a:hover {
+	background-color: #fdcc52;
+	border-radius: 5px;
+	transition: 0.2 all ease;
+    -webkit-transition: 0.2s all ease;
+    -moz-transition: 0.2s all ease;
+    -o-transition: 0.2s all ease;
+}
+#mainNav .navbar-nav>li>a.active:hover {
+    background-color: transparent !important;
+}
+#mainNav.navbar-shrink .navbar-nav>li>a:focus:hover, #mainNav.navbar-shrink .navbar-nav>li>a:hover {
+	color: #ffffff;
+}
+
+
+header.masthead {
+	/*background: url(../img/coffee-machine.jpg) no-repeat center center;*/
+    /*background: linear-gradient(to left,#3a2415,#dcc692);*/
+    background: url(../img/coffee-beans-in-a-coffee-cup.jpg),linear-gradient(to left,#3a2415,#dcc692);
+	background-size: cover;
+    background-position: center 60%;
+    color: #3a2415;
+    position: relative;
+    transition: 0.2 all ease;
+    -webkit-transition: 0.2s all ease;
+    -moz-transition: 0.2s all ease;
+    -o-transition: 0.2s all ease;
+}
+header.masthead .header-content h1 {
+	font-family: Playfair Display,Helvetica,Arial,sans-serif;
+	font-size: 75px;
+	font-weight: bold;
+    font-style: italic;
+}
+
+header.masthead .header-content h2 {
+    font-family: 'Copperplate Gothic',Helvetica,Arial,sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    padding: 10px 1.5em 0;
+}
+.device-container {
+	visibility: hidden;
+}
+
+section.download .badges .badge-link {
+    color: #fdcc52;
+    background-color: #000000;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 10px 5px;
+    transition: 0.2 all ease;
+    -webkit-transition: 0.2s all ease;
+    -moz-transition: 0.2s all ease;
+    -o-transition: 0.2s all ease;
+}
+
+section.download .badges .badge-link:hover {
+	color: #ffffff;
+	background-color: #3a2315;
+	text-decoration: none;
+	transition: 0.2 all ease;
+    -webkit-transition: 0.2s all ease;
+    -moz-transition: 0.2s all ease;
+    -o-transition: 0.2s all ease;
+}
+a.badge-link.menu-drinks:before {
+    content: '\f0f4';
+    font-family: 'Font Awesome 5 Free';
+    font-style: normal;
+    font-weight: 900;
+    padding-right: 8px;
+    vertical-align: top;
+    font-size: 18px;
+}
+a.badge-link.menu-food:before {
+    content: '\f2e7';
+    font-family: 'Font Awesome 5 Free';
+    font-style: normal;
+    font-weight: 900;
+    padding-right: 8px;
+    vertical-align: top;
+    font-size: 18px;
+}
+section.features .section-heading {
+    margin-bottom: 50px;
+}
+.gifts-wrapper {
+    display: inline-block;
+    text-align: center;
+    margin: 20px 0
+}
+.gift-icon {
+	height: 150px;
+	display: inline-block;
+
+}
+section.cta {
+    background-image: url(../img/freshly-brewed-coffee.jpg);
+}
+
+@media (max-width: 992px) {
+	img.custom-logo {
+		height: 70px;
+	}
+
+	header.masthead {
+	    color: #ffffff;
+	    background-position: 80%;
+	    transition: 0.2 all ease;
+	    -webkit-transition: 0.2s all ease;
+	    -moz-transition: 0.2s all ease;
+	    -o-transition: 0.2s all ease;
+	}
+	header.masthead:after {
+	    background-color: rgba(58, 36, 21, 0.7);
+	    content: '';
+	    height: 100%;
+	    width: 100%;
+	    position: absolute;
+	    top: 0;
+	    left: 0;
+	    transition: 0.2 all ease;
+	    -webkit-transition: 0.2s all ease;
+	    -moz-transition: 0.2s all ease;
+	    -o-transition: 0.2s all ease;
+	}
+	header.masthead .header-content {
+	    z-index: 1;
+	    position: relative;
+	}
+	header.masthead .header-content h2 {
+		color: #fdca49;
+	}
+
+	section.features .section-heading {
+	    margin-bottom: 30px;
+	}
+	.gifts-wrapper-row {
+		margin: 0 auto 20px;
+	}
+
+}
